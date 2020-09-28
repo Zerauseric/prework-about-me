@@ -64,6 +64,11 @@ section > h1 {
 #footer a {
   color: #ffffff;
 }
+
+#footer b {
+  color: #ffffff;
+}
+
 .social > li {
   display: inline-block;
   margin: 0 5px;
